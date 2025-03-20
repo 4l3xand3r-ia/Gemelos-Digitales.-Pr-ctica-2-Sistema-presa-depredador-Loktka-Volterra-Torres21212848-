@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alexander
+    family-names: Torres Avila
+    email: l21212848@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/4l3xand3r-ia/Gemelos-Digitales.-Pr-ctica-2-Sistema-presa-depredador-Loktka-Volterra-Torres21212848-
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnológico de Tijuana
+  Ingeniería biomédica
+  Gemelos Digitales 
+  Práctica 2: Sistema Presa-Depredador (Loktka - Volterra)
+keywords:
+  - Leyes de crecimiento exponencial
+  - Método de Heund
+  - Método de Euler
+  - Sistema Presa-Depredador
+  - 'Puntos de equilibro '
+  - 'Matriz Jacobiana '
+license: BSD-2-Clause
+date-released: '2025-03-20'
