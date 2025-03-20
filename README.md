@@ -6,13 +6,14 @@ Alexander Torres Avila
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212848@tectijuana.edu.mx
 
 ## Resumen de la práctica
-En esta práctica se implementarán los métodos de Euler y Heun para la solución de ecuaciones diferenciales ordinarias de primer orden, evaluando su precisión en distintos escenarios. Posteriormente, se calculará la tasa de decrecimiento biológico a partir del tiempo de vida media, permitiendo estimar la dinámica de diversos procesos fisiológicos. Asimismo, se ajustará la ecuación de farmacocinética de primer orden utilizando algoritmos de regresión no lineal, con el objetivo de estimar las tasas de liberación de fármacos por nanohidrogeles. Finalmente, se diseñarán protocolos de quimioterapia basados en modelos matemáticos para ilustrar la concentración del imatinib en el compartimento sanguíneo, considerando su absorción tras la ingesta oral. Esta práctica integra herramientas computacionales y matemáticas clave para el modelizado de fenómenos biológicos, contribuyendo al desarrollo de estrategias terapéuticas personalizadas.
+En esta práctica se implementará el modelo clásico de Lotka-Volterra para sistemas presa-depredador, formulado mediante un sistema de ecuaciones diferenciales ordinarias no lineales de primer orden. Se emplearán los métodos numéricos de Euler y Heun para resolver el sistema y visualizar las trayectorias de las poblaciones en el tiempo y en el espacio de fases. A partir de los resultados obtenidos, se analizarán aspectos como la estabilidad, la existencia de órbitas periódicas y el comportamiento oscilatorio típico de este tipo de interacciones biológicas. La simulación permitirá interpretar cómo la variación de los parámetros del sistema afecta la dinámica poblacional, brindando un marco computacional para la comprensión de fenómenos ecológicos complejos. Esta práctica integra modelización matemática y herramientas computacionales para el análisis cualitativo y cuantitativo de sistemas dinámicos biológicos.
 
 ## Objetivos específicos
-1. Aplicar los métodos de Euler y Heun para la solución de Ecuaciones Diferenciales Ordinarias de primer orden lineales e invariantes en el tiempo.
-2. Calcular las tasas de crecimiento, degradación a partir del tiempo de vida medio biológico.
-3. Ajusta la Ecuación de farmacocinética de primer orden mediante algoritmos de regresión no lineal para la estimación de tasas de liberación de fármaco por nanohidrogeles.
-4. Diseñar protocolos de quimioterapia basados en modelos para ilustrar la dinámica del imatinib en el compartimento sanguíneo cuando se ingiere una dosis de 300 mg/día de este fármaco.
+1. Formular el sistema de ecuaciones diferenciales del modelo Lotka-Volterra para representar la interacción presa-depredador.
+2. Resolver el sistema utilizando los métodos numéricos de Euler y Heun en un intervalo de tiempo definido.
+3. Analizar la estabilidad y el comportamiento oscilatorio de las poblaciones a través de gráficos de series de tiempo y espacios de fase.
+4. Evaluar el efecto de los parámetros del modelo sobre la dinámica del sistema mediante simulaciones numéricas.
+5. Aplicar conceptos de sistemas dinámicos no lineales para interpretar trayectorias y puntos de equilibrio en sistemas biológicos.
 
 ## Docente
 Dr. Paul A. Valle
