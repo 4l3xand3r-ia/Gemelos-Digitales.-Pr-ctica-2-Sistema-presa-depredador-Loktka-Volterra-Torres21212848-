@@ -1,4 +1,4 @@
-# Gemelos Digitales. Práctica 2: Sistema presa-depredador (Loktka-Volterra) [Torres21212848]
+# Gemelos Digitales. Práctica 2: Sistema presa-depredador (Lotka-Volterra) [Torres21212848]
 
 ## Autor
 Alexander Torres Avila
