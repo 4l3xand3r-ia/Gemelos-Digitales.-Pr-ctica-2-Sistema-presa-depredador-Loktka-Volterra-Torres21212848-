@@ -22,3 +22,4 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
+[2] Darwiniano1920. (2020, abril). Control de la glucemia en sangre. Recuperado de https://darwiniano1920.blogspot.com/2020/04/3-eso-control-de-la-glucemia-en-sangre.html
